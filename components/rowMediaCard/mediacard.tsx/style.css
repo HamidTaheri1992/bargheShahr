@@ -1,0 +1,23 @@
+.mediaCardStyle {
+  display: flex;
+  gap: 30px;
+  flex-direction: row;
+  height: 90%;
+  margin: 10px;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .mediaCardStyle {
+    flex-direction: column;
+  }
+}
+
+.linkMediaCardStyle {
+  background-color: var(--font-color2);
+  border-radius: 20px;
+  padding: 10px;
+  width: 100%;
+}
+.linkMediaCardStyle:hover {
+  scale: 1.1;
+}

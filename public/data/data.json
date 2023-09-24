@@ -1,0 +1,102 @@
+{
+  "aboutitem": [
+    {
+      "id": "1",
+      "title": "خانه",
+      "href": "/"
+    },
+    {
+      "id": "2",
+      "title": "ارتباط با ما",
+      "href": "../dashboard/about"
+    },
+    {
+      "id": "3",
+      "title": "تماس با ما",
+      "href": "../dashboard/about/call"
+    },
+    {
+      "id": "4",
+      "title": "ساعات کاری ما",
+      "href": "../dashboard/about/workHours"
+    }
+  ],
+  "testitem": [
+    {
+      "id": "1",
+      "title": "محصول ۱",
+      "price": "100",
+      "href": "../dashboard/test"
+    },
+    {
+      "id": "2",
+      "title": "محصول ۲",
+      "price": "200",
+      "href": "../dashboard/test"
+    },
+
+    {
+      "id": "3",
+      "title": "محصول ۳",
+      "price": "300",
+      "href": "../dashboard/test"
+    }
+  ],
+  "branditem": [
+    {
+      "id": "1",
+      "title": "هیوندای",
+      "src": "/image/hyundai.jpg",
+      "href": "dashboard/brands/hyundai"
+    },
+    {
+      "id": "2",
+      "title": "اشنایدر",
+      "src": "/image/schneider.jpg",
+      "href": "dashboard/brands/schneider"
+    },
+
+    {
+      "id": "3",
+      "title": "ای بی بی",
+      "src": "/image/abb.jpg",
+      "href": "dashboard/brands/abb"
+    },
+    {
+      "id": "4",
+      "title": "ال اس",
+      "src": "/image/ls.jpg",
+      "href": "dashboard/brands/ls"
+    }
+  ],
+  "productitem": [
+    {
+      "id": "1",
+      "title": "کنتاکتورها",
+      "href": "/dashboard/product/contactors",
+      "description": "در این بخش هر انچه در مورد کناکتورها بخواهید هست",
+      "src": "/image/contactor.jpg"
+    },
+    {
+      "id": "2",
+      "title": "اینورترها",
+      "href": "/dashboard/product/inverters",
+      "description": "در این بخش هر انچه در مورد اینورترها بخواهید هست",
+      "src": "/image/inverter.jpg"
+    },
+    {
+      "id": "3",
+      "title": "استابلایزرها",
+      "href": "/dashboard/product/stablizers",
+      "description": "در این بخش هر انچه در مورد استابلایزرها بخواهید هست",
+      "src": "/image/stablizer.jpg"
+    },
+    {
+      "id": "4",
+      "title": "متفرقه",
+      "href": "/dashboard/product/etc",
+      "description": "در این بخش هر انچه در دسته های دیگر جا نگرفت قرار دارد",
+      "src": "/image/logo.jpg"
+    }
+  ]
+}

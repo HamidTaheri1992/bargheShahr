@@ -1,0 +1,12 @@
+.gridStyle {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.background {
+  height: 100%;
+  background-color: var(--main-color1) !important;
+}
+.buttonStyle {
+  font-size: 20px;
+  color: var(--font-color1);
+}

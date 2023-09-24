@@ -1,0 +1,4 @@
+.MuiInput-input {
+  direction: rtl !important;
+  text-align: right !important;
+}
